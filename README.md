@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Employee performance data**
 
-- 🌱 I’m currently learning **Python,Sql,Statistics,Power bi,Exel ect.**
+- 🌱 I have learned **Python,Sql,Statistics,Power bi,Exel ect.**
 
 - 📫 How to reach me **kushavartaaglave@gmail.com**
 
